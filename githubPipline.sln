@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "githubPipline", "githubPipline.csproj", "{0874D4E7-B287-407B-9F11-60C9D9C5B19F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0874D4E7-B287-407B-9F11-60C9D9C5B19F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0874D4E7-B287-407B-9F11-60C9D9C5B19F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0874D4E7-B287-407B-9F11-60C9D9C5B19F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0874D4E7-B287-407B-9F11-60C9D9C5B19F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFEE7502-5E3F-42E0-9BCA-2C711956FBB7}
+	EndGlobalSection
+EndGlobal
